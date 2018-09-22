@@ -5,6 +5,9 @@ contributor:
     agent_name: Niemand, Jasper
     gutenberg_agent_id: '48539'
     url: http://www.gutenberg.org/2009/agents/48539
+covers:
+- cover_type: archival
+  image_path: 55833-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55833#Letter-That-Have-Helped-Me
 gutenberg_issued: '2017-10-28'
 gutenberg_type: Text
 identifiers:
